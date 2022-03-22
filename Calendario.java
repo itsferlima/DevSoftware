@@ -70,7 +70,7 @@ public class Calendario{
                 break;
         default:
         break;
-    }while (op != 0);
+    }while (mes != 0);
 
 
 
